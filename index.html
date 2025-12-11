@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>TestTaskJS</title>
+    <link rel="stylesheet" href="dist/styles.css" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&display=swap"
+      rel="stylesheet"
+    />
+  </head>
+  <body>
+    <div class="body">
+      <div class="left-img">
+        <span></span>
+        <span></span>
+        <span></span>
+      </div>
+      <div class="block">
+        <div class="text">
+          <p class="text-wish">ENJOY YOUR STUDYING!</p>
+          <p class="text-title">Our online courses</p>
+        </div>
+
+        <div class="menu">
+          <div class="filters"></div>
+          <input type="text" placeholder="Search course..." id="search-input" />
+        </div>
+
+        <div id="user-list"></div>
+
+        <button id="load-more-btn" class="load-more">
+          <img src="./images/arrows.svg" alt="Arrows icon" class="img-arrows" /> Load more
+        </button>
+      </div>
+      <div class="right-img-container">
+        <div class="right-img"></div>
+        <div class="right-img-bottom">
+          <div class="l-shape-wrapper" style="top: 55px; left: 0">
+            <div class="l-shape"></div>
+          </div>
+          <div class="l-shape-wrapper" style="top: 36px; left: 18px">
+            <div class="l-shape"></div>
+          </div>
+          <div class="l-shape-wrapper" style="top: 18px; left: 36px">
+            <div class="l-shape"></div>
+          </div>
+          <div class="l-shape-wrapper" style="top: 0; left: 55px">
+            <div class="l-shape"></div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <script type="module" src="./scripts/app.js"></script>
+  </body>
+</html>
