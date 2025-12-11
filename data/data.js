@@ -4,7 +4,7 @@ const users = [
     speciality: "Marketing",
     description: "The Ultimate Google Ads Training Course",
     price: "$100",
-    imageUrl: "/images/id1.jpg",
+    imageUrl: "/TestJS/images/id1.jpg",
     name: "by Jerome Bell",
   },
   {
@@ -12,7 +12,7 @@ const users = [
     speciality: "Management",
     description: "Product Management Fundamentals",
     price: "$480",
-    imageUrl: "/images/id2.jpg",
+    imageUrl: "/TestJS/images/id2.jpg",
     name: "by Marvin McKinney",
   },
   {
@@ -20,7 +20,7 @@ const users = [
     speciality: "HR & Recruting",
     description: "HR Management and Analytics",
     price: "$200",
-    imageUrl: "./../images/id3.jpg",
+    imageUrl: "/TestJS/images/id3.jpg",
     name: "by Leslie Alexander Li",
   },
   {
@@ -28,7 +28,7 @@ const users = [
     speciality: "Marketing",
     description: "Brand Management & PR Communications",
     price: "$530",
-    imageUrl: "./../images/id4.jpg",
+    imageUrl: "/TestJS/images/id4.jpg",
     name: "by Kristin Watson",
   },
   {
@@ -36,7 +36,7 @@ const users = [
     speciality: "Design",
     description: "Graphic Design Basic",
     price: "$500",
-    imageUrl: "./../images/id5.jpg",
+    imageUrl: "/TestJS/images/id5.jpg",
     name: "by Guy Hawkins",
   },
   {
@@ -44,7 +44,7 @@ const users = [
     speciality: "Management",
     description: "Business Development Management",
     price: "$400",
-    imageUrl: "./../images/id6.jpg",
+    imageUrl: "/TestJS/images/id6.jpg",
     name: "by Dianne Russell",
   },
   {
@@ -52,7 +52,7 @@ const users = [
     speciality: "Development",
     description: "Highload Software Architecture",
     price: "$600",
-    imageUrl: "./../images/id7.jpg",
+    imageUrl: "/TestJS/images/id7.jpg",
     name: "by Brooklyn Simmons",
   },
   {
@@ -60,7 +60,7 @@ const users = [
     speciality: "HR & Recruting",
     description: "Human Resources - Selection and Recruitment",
     price: "$150",
-    imageUrl: "./../images/id8.jpg",
+    imageUrl: "/TestJS/images/id8.jpg",
     name: "by Kathryn Murphy",
   },
   {
@@ -68,7 +68,7 @@ const users = [
     speciality: "Design",
     description: "User Experience. Human-centered Design",
     price: "$240",
-    imageUrl: "./../images/id9.jpg",
+    imageUrl: "/TestJS/images/id9.jpg",
     name: "by Cody Fisher",
   },
   {
@@ -76,7 +76,7 @@ const users = [
     speciality: "Development",
     description: "Highload Software Architecture",
     price: "$500",
-    imageUrl: "./../images/id1.jpg",
+    imageUrl: "/TestJS/images/id1.jpg",
     name: "by Brooklyn Fisher",
   },
   {
@@ -84,7 +84,7 @@ const users = [
     speciality: "Development",
     description: "Highload Software Architecture",
     price: "$700",
-    imageUrl: "./../images/id2.jpg",
+    imageUrl: "/TestJS/images/id2.jpg",
     name: "by Cody Murphy",
   },
   {
@@ -92,7 +92,7 @@ const users = [
     speciality: "HR & Recruting",
     description: "HR Management and Analytics",
     price: "$250",
-    imageUrl: "./../images/id5.jpg",
+    imageUrl: "/TestJS/images/id5.jpg",
     name: "by Leslie Murphy",
   },
   {
@@ -100,7 +100,7 @@ const users = [
     speciality: "HR & Recruting",
     description: "HR Management and Analytics",
     price: "$230",
-    imageUrl: "./../images/id7.jpg",
+    imageUrl: "/TestJS/images/id7.jpg",
     name: "by Cody Alexander Li",
   },
   {
@@ -108,7 +108,7 @@ const users = [
     speciality: "HR & Recruting",
     description: "HR Management and Analytics",
     price: "$210",
-    imageUrl: "./../images/id9.jpg",
+    imageUrl: "/TestJS/images/id9.jpg",
     name: "by Brooklyn Murphy",
   },
   {
@@ -116,7 +116,7 @@ const users = [
     speciality: "Management",
     description: "Business Development Management",
     price: "$450",
-    imageUrl: "./../images/id4.jpg",
+    imageUrl: "/TestJS/images/id4.jpg",
     name: "by Kristin Simmons",
   },
   {
@@ -124,7 +124,7 @@ const users = [
     speciality: "Marketing",
     description: "The Ultimate Google Ads Training Course",
     price: "$120",
-    imageUrl: "./../images/id2.jpg",
+    imageUrl: "/TestJS/images/id2.jpg",
     name: "by Brooklyn Bell",
   },
   {
@@ -132,7 +132,7 @@ const users = [
     speciality: "Marketing",
     description: "The Ultimate Google Ads Training Course",
     price: "$130",
-    imageUrl: "./../images/id9.jpg",
+    imageUrl: "/TestJS/images/id9.jpg",
     name: "by Jerome Simmons",
   },
 ];
